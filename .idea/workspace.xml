@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c52ba8d9-d734-474a-a89c-11a6baa8d664" name="Changes" comment="이건머지">
-      <change beforePath="$PROJECT_DIR$/Record_MD/12월28.md" beforeDir="false" afterPath="$PROJECT_DIR$/Record_MD/12월28.md" afterDir="false" />
+    <list default="true" id="c52ba8d9-d734-474a-a89c-11a6baa8d664" name="Changes" comment="다시수정">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,7 @@
       <updated>1703769453680</updated>
       <workItem from="1703769454806" duration="808000" />
       <workItem from="1703770273346" duration="3756000" />
-      <workItem from="1703774042030" duration="1259000" />
+      <workItem from="1703774042030" duration="1796000" />
     </task>
     <task id="LOCAL-00001" summary="수정 중">
       <option name="closed" value="true" />
@@ -132,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703775280992</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="다시수정">
+      <option name="closed" value="true" />
+      <created>1703775313446</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703775313446</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +152,7 @@
     <MESSAGE value="3차 수정 중" />
     <MESSAGE value="12월 28일 - 수정" />
     <MESSAGE value="이건머지" />
-    <option name="LAST_COMMIT_MESSAGE" value="이건머지" />
+    <MESSAGE value="다시수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="다시수정" />
   </component>
 </project>
