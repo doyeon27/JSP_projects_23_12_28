@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c52ba8d9-d734-474a-a89c-11a6baa8d664" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Record_MD/12월28.md" beforeDir="false" afterPath="$PROJECT_DIR$/Record_MD/12월28.md" afterDir="false" />
+    <list default="true" id="c52ba8d9-d734-474a-a89c-11a6baa8d664" name="Changes" comment="2차 수정 중">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +34,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Program Files/Apache Software Foundation/apache-tomcat-10.1.17",
+    "last_opened_file_path": "C:/work/JSP_projects/JSP_borad_2023_12_28/.idea",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,6 +52,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\JSP_projects\JSP_borad_2023_12_28\.idea" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\work\JSP_projects\JSP_borad_2023_12_28\Record_MD" />
     </key>
@@ -72,11 +77,33 @@
       <updated>1703769453680</updated>
       <workItem from="1703769454806" duration="808000" />
       <workItem from="1703770273346" duration="3756000" />
-      <workItem from="1703774042030" duration="626000" />
+      <workItem from="1703774042030" duration="904000" />
     </task>
+    <task id="LOCAL-00001" summary="수정 중">
+      <option name="closed" value="true" />
+      <created>1703774767856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703774767856</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2차 수정 중">
+      <option name="closed" value="true" />
+      <created>1703774809769</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703774809769</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="수정 중" />
+    <MESSAGE value="2차 수정 중" />
+    <option name="LAST_COMMIT_MESSAGE" value="2차 수정 중" />
   </component>
 </project>
