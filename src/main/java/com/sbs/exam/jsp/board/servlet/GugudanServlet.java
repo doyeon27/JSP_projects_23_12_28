@@ -20,7 +20,7 @@ public class GugudanServlet extends HelloServlet {
         int dan = Integer.parseInt(req.getParameter("dan"));
 
         // limit 값 설정 가능.
-        int limit = Integer.parseInt(req.getParameter("limit"));
+//        int limit = Integer.parseInt(req.getParameter("limit"));
         resp.getWriter().append("<h1>%d단</h1>\n".formatted(dan)); // %d를 사용하여 정수값을 대체
         // for
         for(int a = 1; a < 10; a++){
