@@ -17,6 +17,7 @@ public class GugudanServlet extends HelloServlet {
 
 
         // int dan 이니까 정수형 타입으로 형변환 해주고 getParameter 씀
+        // 주소창에 http://localhost:8081/gugudan?dan=(원하는 숫자)
         int dan = Integer.parseInt(req.getParameter("dan"));
 
         // limit 값 설정 가능.
