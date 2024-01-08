@@ -1,4 +1,4 @@
-package com.sbs.exam.jsp.board.servlet;
+package sbs.jsp.board.servlet;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
